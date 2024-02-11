@@ -63,7 +63,7 @@ export function Tasktable() {
             <TableHeader>
               <TableRow>
                 <TableHead className="font-medium">Title</TableHead>
-                <TableHead className="font-medium">Discription</TableHead>
+                <TableHead className="font-medium">Description</TableHead>
               </TableRow>
             </TableHeader>
             <TableBody>
