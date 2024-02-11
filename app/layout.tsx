@@ -10,7 +10,7 @@ const info = {
   twitter: "@arnvgh",
   description: "19yo Software Engineer, India",
   url: "https://mctodo.vercel.app",
-  image: "../public/meta/meta.png",
+  image: "/meta/meta.png",
 };
 
 export const metadata: Metadata = {
