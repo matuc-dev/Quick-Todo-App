@@ -8,6 +8,9 @@ const font = Poppins({ weight: ["100", "200", "300", "400", "500", "600", "700",
 export const metadata: Metadata = {
   title: "Todo App",
   description: "Created By @mc_dev1",
+  openGraph: {
+    images: '/opengraph-image.png',
+  },
 };
 
 export default function RootLayout({
